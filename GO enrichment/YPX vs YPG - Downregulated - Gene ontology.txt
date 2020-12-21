@@ -1,0 +1,84 @@
+	goAcc	Pathway	N	DE	P.DE	gotermType
+732	GO:0005524	ATP binding	439	146	1.63E-09	molecular_function
+82	GO:0003676	nucleic acid binding	288	94	3.66E-06	molecular_function
+404	GO:0004386	helicase activity	74	33	5.71E-06	molecular_function
+725	GO:0005488	binding	139	52	9.05E-06	molecular_function
+30	GO:0000166	nucleotide binding	119	45	2.61E-05	molecular_function
+1992	GO:0044267	cellular protein metabolic process	11	9	3.22E-05	biological_process
+1038	GO:0008026	ATP-dependent helicase activity	62	26	0.000191789	molecular_function
+848	GO:0006260	DNA replication	29	15	0.000291577	biological_process
+87	GO:0003689	DNA clamp loader activity	5	5	0.000438542	molecular_function
+742	GO:0005663	DNA replication factor C complex	5	5	0.000438542	cellular_component
+1332	GO:0015205	nucleobase transmembrane transporter activity	9	7	0.000473552	molecular_function
+1354	GO:0015931	"nucleobase, nucleoside, nucleotide and nucleic acid transport"	9	7	0.000473552	biological_process
+83	GO:0003677	DNA binding	224	69	0.000484074	molecular_function
+1561	GO:0017111	nucleoside-triphosphatase activity	79	29	0.001187703	molecular_function
+753	GO:0005694	chromosome	10	7	0.001287077	cellular_component
+1365	GO:0016020	membrane	261	76	0.001570262	cellular_component
+151	GO:0003900	DNA-directed RNA polymerase I activity	8	6	0.00174847	molecular_function
+152	GO:0003901	DNA-directed RNA polymerase II activity	8	6	0.00174847	molecular_function
+153	GO:0003902	DNA-directed RNA polymerase III activity	8	6	0.00174847	molecular_function
+1110	GO:0008299	isoprenoid biosynthetic process	8	6	0.00174847	biological_process
+1865	GO:0034062	RNA polymerase activity	8	6	0.00174847	molecular_function
+658	GO:0004812	aminoacyl-tRNA ligase activity	31	14	0.002505883	molecular_function
+847	GO:0006259	DNA metabolic process	11	7	0.002888497	biological_process
+981	GO:0006810	transport	144	45	0.003216542	biological_process
+1331	GO:0015171	amino acid transmembrane transporter activity	17	9	0.004055325	molecular_function
+864	GO:0006333	chromatin assembly or disassembly	9	6	0.004298306	biological_process
+1176	GO:0008565	protein transporter activity	30	13	0.005477901	molecular_function
+886	GO:0006418	tRNA aminoacylation for protein translation	27	12	0.005898978	biological_process
+1876	GO:0042254	ribosome biogenesis and assembly	7	5	0.006241888	biological_process
+833	GO:0006139	"nucleobase, nucleoside, nucleotide and nucleic acid metabolic process"	15	8	0.006360822	biological_process
+996	GO:0006865	amino acid transport	18	9	0.006592827	biological_process
+341	GO:0004252	serine-type endopeptidase activity	5	4	0.008549139	molecular_function
+959	GO:0006633	fatty acid biosynthetic process	5	4	0.008549139	biological_process
+16	GO:0000107	imidazoleglycerol-phosphate synthase activity	10	6	0.00881515	molecular_function
+1574	GO:0018071	NAD(P)-cysteine ADP-ribosyltransferase activity	10	6	0.00881515	molecular_function
+1576	GO:0018121	NAD(P)-asparagine ADP-ribosyltransferase activity	10	6	0.00881515	molecular_function
+1577	GO:0018127	NAD(P)-serine ADP-ribosyltransferase activity	10	6	0.00881515	molecular_function
+1985	GO:0043867	7-cyano-7-deazaguanine tRNA-ribosyltransferase activity	10	6	0.00881515	molecular_function
+68	GO:0000785	chromatin	8	5	0.013730918	cellular_component
+85	GO:0003682	chromatin binding	8	5	0.013730918	molecular_function
+269	GO:0004100	chitin synthase activity	8	5	0.013730918	molecular_function
+1366	GO:0016021	integral to membrane	221	61	0.014752547	cellular_component
+881	GO:0006397	mRNA processing	11	6	0.015927135	biological_process
+1501	GO:0016788	"hydrolase activity, acting on ester bonds"	11	6	0.015927135	molecular_function
+1864	GO:0034061	DNA polymerase activity	17	8	0.015987361	molecular_function
+873	GO:0006364	rRNA processing	18	8	0.023502988	biological_process
+347	GO:0004289	subtilase activity	15	7	0.02521751	molecular_function
+466	GO:0004497	monooxygenase activity	32	12	0.026733744	molecular_function
+814	GO:0006066	alcohol metabolic process	4	3	0.03253158	biological_process
+849	GO:0006265	DNA topological change	4	3	0.03253158	biological_process
+1375	GO:0016151	nickel ion binding	4	3	0.03253158	molecular_function
+1455	GO:0016597	amino acid binding	4	3	0.03253158	molecular_function
+19	GO:0000139	Golgi membrane	7	4	0.041418957	cellular_component
+884	GO:0006414	translational elongation	7	4	0.041418957	biological_process
+1458	GO:0016614	"oxidoreductase activity, acting on CH-OH group of donors"	7	4	0.041418957	molecular_function
+1664	GO:0018658	salicylate 1-monooxygenase activity	10	5	0.042228215	molecular_function
+13	GO:0000103	sulfate assimilation	2	2	0.045436076	biological_process
+162	GO:0003917	DNA topoisomerase type I activity	2	2	0.045436076	molecular_function
+356	GO:0004312	fatty-acid synthase activity	2	2	0.045436076	molecular_function
+360	GO:0004321	fatty-acyl-CoA synthase activity	2	2	0.045436076	molecular_function
+389	GO:0004365	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) activity	2	2	0.045436076	molecular_function
+480	GO:0004535	poly(A)-specific ribonuclease activity	2	2	0.045436076	molecular_function
+615	GO:0004739	pyruvate dehydrogenase (acetyl-transferring) activity	2	2	0.045436076	molecular_function
+629	GO:0004758	serine C-palmitoyltransferase activity	2	2	0.045436076	molecular_function
+664	GO:0004818	glutamate-tRNA ligase activity	2	2	0.045436076	molecular_function
+668	GO:0004822	isoleucine-tRNA ligase activity	2	2	0.045436076	molecular_function
+781	GO:0005835	fatty acid synthase complex	2	2	0.045436076	cellular_component
+837	GO:0006177	GMP biosynthetic process	2	2	0.045436076	biological_process
+850	GO:0006268	DNA unwinding during replication	2	2	0.045436076	biological_process
+895	GO:0006428	isoleucyl-tRNA aminoacylation	2	2	0.045436076	biological_process
+1166	GO:0008519	ammonium transmembrane transporter activity	2	2	0.045436076	molecular_function
+1218	GO:0008812	choline dehydrogenase activity	2	2	0.045436076	molecular_function
+1232	GO:0008892	guanine deaminase activity	2	2	0.045436076	molecular_function
+1241	GO:0008943	glyceraldehyde-3-phosphate dehydrogenase activity	2	2	0.045436076	molecular_function
+1273	GO:0009113	purine base biosynthetic process	2	2	0.045436076	biological_process
+1295	GO:0009332	glutamate-tRNA ligase complex	2	2	0.045436076	cellular_component
+1474	GO:0016706	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors"	2	2	0.045436076	molecular_function
+1478	GO:0016743	carboxyl- or carbamoyltransferase activity	2	2	0.045436076	molecular_function
+1525	GO:0016876	"ligase activity, forming aminoacyl-tRNA and related compounds"	2	2	0.045436076	molecular_function
+1551	GO:0017059	serine C-palmitoyltransferase complex	2	2	0.045436076	cellular_component
+1794	GO:0030286	dynein complex	2	2	0.045436076	cellular_component
+1907	GO:0043039	tRNA aminoacylation	2	2	0.045436076	biological_process
+2130	GO:0051118	"glucan endo-1,3-alpha-glucosidase activity"	2	2	0.045436076	molecular_function

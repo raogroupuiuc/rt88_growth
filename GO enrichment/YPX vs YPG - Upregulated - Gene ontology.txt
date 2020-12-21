@@ -1,0 +1,79 @@
+	goAcc	Pathway	N	DE	P.DE	gotermType
+1065	GO:0008152	metabolic process	346	168	6.55E-21	biological_process
+1444	GO:0016491	oxidoreductase activity	240	112	8.30E-13	molecular_function
+105	GO:0003824	catalytic activity	296	123	8.80E-10	molecular_function
+1464	GO:0016627	"oxidoreductase activity, acting on the CH-CH group of donors"	16	14	3.61E-07	molecular_function
+801	GO:0005975	carbohydrate metabolic process	78	38	9.15E-06	biological_process
+203	GO:0003995	acyl-CoA dehydrogenase activity	13	11	1.42E-05	molecular_function
+768	GO:0005777	peroxisome	7	7	7.26E-05	cellular_component
+830	GO:0006118	electron transport	149	59	0.000115753	biological_process
+769	GO:0005778	peroxisomal membrane	6	6	0.000283696	cellular_component
+1026	GO:0007154	cell communication	14	10	0.000424506	biological_process
+1869	GO:0035091	phosphoinositide binding	14	10	0.000424506	molecular_function
+388	GO:0004364	glutathione transferase activity	12	9	0.000478562	molecular_function
+1788	GO:0030246	carbohydrate binding	10	8	0.000499798	molecular_function
+958	GO:0006631	fatty acid metabolic process	5	5	0.001107731	biological_process
+1020	GO:0007031	peroxisome organization and biogenesis	5	5	0.001107731	biological_process
+1344	GO:0015645	fatty-acid ligase activity	7	6	0.001550091	molecular_function
+104	GO:0003779	actin binding	14	9	0.002597618	molecular_function
+1091	GO:0008237	metallopeptidase activity	10	7	0.004089826	molecular_function
+444	GO:0004460	L-lactate dehydrogenase (cytochrome) activity	4	4	0.004323741	molecular_function
+1196	GO:0008670	"2,4-dienoyl-CoA reductase (NADPH) activity"	4	4	0.004323741	molecular_function
+1518	GO:0016846	carbon-sulfur lyase activity	4	4	0.004323741	molecular_function
+1566	GO:0017168	5-oxoprolinase (ATP-hydrolyzing) activity	4	4	0.004323741	molecular_function
+527	GO:0004620	phospholipase activity	6	5	0.005227908	molecular_function
+1783	GO:0030170	pyridoxal phosphate binding	46	20	0.006338209	molecular_function
+2117	GO:0050660	FAD binding	56	23	0.008185293	molecular_function
+1500	GO:0016787	hydrolase activity	121	43	0.009699262	molecular_function
+1767	GO:0020037	heme binding	48	20	0.011026139	molecular_function
+980	GO:0006808	regulation of nitrogen utilization	14	8	0.012071672	biological_process
+1451	GO:0016564	transcription repressor activity	14	8	0.012071672	molecular_function
+1493	GO:0016769	"transferase activity, transferring nitrogenous groups"	17	9	0.014645519	molecular_function
+205	GO:0003997	acyl-CoA oxidase activity	3	3	0.016870537	molecular_function
+794	GO:0005952	cAMP-dependent protein kinase complex	3	3	0.016870537	cellular_component
+803	GO:0005978	glycogen biosynthetic process	3	3	0.016870537	biological_process
+831	GO:0006120	"mitochondrial electron transport, NADH to ubiquinone"	3	3	0.016870537	biological_process
+960	GO:0006635	fatty acid beta-oxidation	3	3	0.016870537	biological_process
+1269	GO:0009098	leucine biosynthetic process	3	3	0.016870537	biological_process
+1448	GO:0016559	peroxisome fission	3	3	0.016870537	biological_process
+1792	GO:0030266	quinate 5-dehydrogenase activity	3	3	0.016870537	molecular_function
+1812	GO:0030833	regulation of actin filament polymerization	3	3	0.016870537	biological_process
+1938	GO:0043738	F420H2 dehydrogenase activity	3	3	0.016870537	molecular_function
+1971	GO:0043826	sulfur oxygenase reductase activity	3	3	0.016870537	molecular_function
+1986	GO:0043883	malolactic enzyme activity	3	3	0.016870537	molecular_function
+2064	GO:0047621	acylpyruvate hydrolase activity	3	3	0.016870537	molecular_function
+2106	GO:0050356	tropine dehydrogenase activity	3	3	0.016870537	molecular_function
+2138	GO:0051341	regulation of oxidoreductase activity	3	3	0.016870537	biological_process
+358	GO:0004316	3-oxoacyl-[acyl-carrier-protein] reductase activity	5	4	0.017187783	molecular_function
+447	GO:0004467	long-chain-fatty-acid-CoA ligase activity	5	4	0.017187783	molecular_function
+1245	GO:0008967	phosphoglycolate phosphatase activity	5	4	0.017187783	molecular_function
+1379	GO:0016207	4-coumarate-CoA ligase activity	5	4	0.017187783	molecular_function
+1829	GO:0031955	short-chain-fatty-acid-CoA ligase activity	5	4	0.017187783	molecular_function
+1830	GO:0031956	medium-chain-fatty-acid-CoA ligase activity	5	4	0.017187783	molecular_function
+1831	GO:0031957	very-long-chain-fatty-acid-CoA ligase activity	5	4	0.017187783	molecular_function
+2054	GO:0047372	acylglycerol lipase activity	5	4	0.017187783	molecular_function
+2076	GO:0047953	glycerol 2-dehydrogenase (NADP+) activity	5	4	0.017187783	molecular_function
+1319	GO:0010181	FMN binding	23	11	0.017907686	molecular_function
+234	GO:0004040	amidase activity	10	6	0.022338121	molecular_function
+1756	GO:0019752	carboxylic acid metabolic process	10	6	0.022338121	biological_process
+654	GO:0004806	triacylglycerol lipase activity	13	7	0.027796188	molecular_function
+48	GO:0000253	3-keto sterol reductase activity	8	5	0.030380561	molecular_function
+229	GO:0004033	aldo-keto reductase activity	8	5	0.030380561	molecular_function
+464	GO:0004495	mevaldate reductase activity	8	5	0.030380561	molecular_function
+1229	GO:0008875	gluconate dehydrogenase activity	8	5	0.030380561	molecular_function
+1386	GO:0016229	steroid dehydrogenase activity	8	5	0.030380561	molecular_function
+1592	GO:0018451	epoxide dehydrogenase activity	8	5	0.030380561	molecular_function
+1593	GO:0018452	5-exo-hydroxycamphor dehydrogenase activity	8	5	0.030380561	molecular_function
+1594	GO:0018453	2-hydroxytetrahydrofuran dehydrogenase activity	8	5	0.030380561	molecular_function
+1842	GO:0032442	phenylcoumaran benzylic ether reductase activity	8	5	0.030380561	molecular_function
+1852	GO:0033764	"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	8	5	0.030380561	molecular_function
+1853	GO:0033765	"steroid dehydrogenase activity, acting on the CH-CH group of donors"	8	5	0.030380561	molecular_function
+1925	GO:0043713	(R)-2-hydroxyisocaproate dehydrogenase activity	8	5	0.030380561	molecular_function
+2084	GO:0048258	3-ketoglucose-reductase activity	8	5	0.030380561	molecular_function
+1133	GO:0008415	acyltransferase activity	28	12	0.035323309	molecular_function
+787	GO:0005856	cytoskeleton	6	4	0.041107534	cellular_component
+825	GO:0006098	pentose-phosphate shunt	6	4	0.041107534	biological_process
+999	GO:0006885	regulation of pH	6	4	0.041107534	biological_process
+1335	GO:0015299	solute:hydrogen antiporter activity	6	4	0.041107534	molecular_function
+1398	GO:0016289	CoA hydrolase activity	6	4	0.041107534	molecular_function
+1399	GO:0016291	acyl-CoA thioesterase activity	6	4	0.041107534	molecular_function

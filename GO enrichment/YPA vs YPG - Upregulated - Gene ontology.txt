@@ -1,0 +1,93 @@
+	goAcc	Pathway	N	DE	P.DE	gotermType
+1444	GO:0016491	oxidoreductase activity	240	135	3.73E-14	molecular_function
+1065	GO:0008152	metabolic process	346	171	5.77E-11	biological_process
+830	GO:0006118	electron transport	149	85	8.44E-10	biological_process
+349	GO:0004298	threonine endopeptidase activity	16	15	6.16E-07	molecular_function
+782	GO:0005839	proteasome core complex	16	15	6.16E-07	cellular_component
+1442	GO:0016469	proton-transporting two-sector ATPase complex	21	18	8.54E-07	cellular_component
+2044	GO:0046961	"hydrogen ion transporting ATPase activity, rotational mechanism"	21	18	8.54E-07	molecular_function
+350	GO:0004299	proteasome endopeptidase activity	15	14	1.76E-06	molecular_function
+105	GO:0003824	catalytic activity	296	135	2.39E-06	molecular_function
+1361	GO:0015986	ATP synthesis coupled proton transport	16	13	9.77E-05	biological_process
+2041	GO:0046933	"hydrogen ion transporting ATP synthase activity, rotational mechanism"	16	13	9.77E-05	molecular_function
+1257	GO:0009055	electron carrier activity	24	17	0.00015677	molecular_function
+1469	GO:0016651	"oxidoreductase activity, acting on NADH or NADPH"	7	7	0.000414263	molecular_function
+1464	GO:0016627	"oxidoreductase activity, acting on the CH-CH group of donors"	16	12	0.00068298	molecular_function
+315	GO:0004175	endopeptidase activity	9	8	0.000866966	molecular_function
+1782	GO:0030163	protein catabolic process	6	6	0.001261398	biological_process
+1319	GO:0010181	FMN binding	23	15	0.001478278	molecular_function
+923	GO:0006511	ubiquitin-dependent protein catabolic process	41	23	0.001808183	biological_process
+1062	GO:0008137	NADH dehydrogenase (ubiquinone) activity	8	7	0.002361991	molecular_function
+1803	GO:0030529	ribonucleoprotein complex	18	12	0.003423457	cellular_component
+1371	GO:0016071	mRNA metabolic process	16	11	0.003558644	biological_process
+104	GO:0003779	actin binding	14	10	0.00358904	molecular_function
+823	GO:0006096	glycolysis	14	10	0.00358904	biological_process
+358	GO:0004316	3-oxoacyl-[acyl-carrier-protein] reductase activity	5	5	0.003839886	molecular_function
+1020	GO:0007031	peroxisome organization and biogenesis	5	5	0.003839886	biological_process
+1047	GO:0008106	alcohol dehydrogenase (NADP+) activity	5	5	0.003839886	molecular_function
+2117	GO:0050660	FAD binding	56	28	0.005753846	molecular_function
+1402	GO:0016301	kinase activity	9	7	0.007594578	molecular_function
+1898	GO:0042626	"ATPase activity, coupled to transmembrane movement of substances"	26	15	0.007932193	molecular_function
+203	GO:0003995	acyl-CoA dehydrogenase activity	13	9	0.007955672	molecular_function
+2118	GO:0050661	NADP binding	11	8	0.008023119	molecular_function
+266	GO:0004092	carnitine O-acetyltransferase activity	4	4	0.011686231	molecular_function
+444	GO:0004460	L-lactate dehydrogenase (cytochrome) activity	4	4	0.011686231	molecular_function
+524	GO:0004616	phosphogluconate dehydrogenase (decarboxylating) activity	4	4	0.011686231	molecular_function
+816	GO:0006072	glycerol-3-phosphate metabolic process	4	4	0.011686231	biological_process
+1056	GO:0008121	ubiquinol-cytochrome-c reductase activity	4	4	0.011686231	molecular_function
+1834	GO:0032115	sorbose reductase activity	4	4	0.011686231	molecular_function
+761	GO:0005743	mitochondrial inner membrane	18	11	0.012878435	cellular_component
+1818	GO:0031072	heat shock protein binding	30	16	0.016299028	molecular_function
+2135	GO:0051287	NAD binding	23	13	0.016459412	molecular_function
+180	GO:0003954	NADH dehydrogenase activity	6	5	0.016732325	molecular_function
+769	GO:0005778	peroxisomal membrane	6	5	0.016732325	cellular_component
+787	GO:0005856	cytoskeleton	6	5	0.016732325	cellular_component
+825	GO:0006098	pentose-phosphate shunt	6	5	0.016732325	biological_process
+999	GO:0006885	regulation of pH	6	5	0.016732325	biological_process
+1335	GO:0015299	solute:hydrogen antiporter activity	6	5	0.016732325	molecular_function
+388	GO:0004364	glutathione transferase activity	12	8	0.017159595	molecular_function
+2006	GO:0045454	cell redox homeostasis	10	7	0.01813698	biological_process
+1261	GO:0009073	aromatic amino acid family biosynthetic process	8	6	0.018290864	biological_process
+100	GO:0003755	peptidyl-prolyl cis-trans isomerase activity	21	12	0.018872641	molecular_function
+511	GO:0004600	cyclophilin	21	12	0.018872641	molecular_function
+1771	GO:0030051	FK506-sensitive peptidyl-prolyl cis-trans isomerase	21	12	0.018872641	molecular_function
+1871	GO:0042027	cyclophilin-type peptidyl-prolyl cis-trans isomerase activity	21	12	0.018872641	molecular_function
+1500	GO:0016787	hydrolase activity	121	51	0.019864277	molecular_function
+72	GO:0000907	sulfonate dioxygenase activity	15	9	0.028133219	molecular_function
+757	GO:0005739	mitochondrion	15	9	0.028133219	cellular_component
+1321	GO:0010302	2-oxoglutarate-dependent dioxygenase activity	15	9	0.028133219	molecular_function
+1636	GO:0018602	"2,4-dichlorophenoxyacetate alpha-ketoglutarate dioxygenase activity"	15	9	0.028133219	molecular_function
+1758	GO:0019798	procollagen-proline dioxygenase activity	15	9	0.028133219	molecular_function
+1936	GO:0043734	DNA-N1-methyladenine dioxygenase activity	15	9	0.028133219	molecular_function
+926	GO:0006520	amino acid metabolic process	22	12	0.029301106	biological_process
+90	GO:0003702	RNA polymerase II transcription factor activity	13	8	0.031885871	molecular_function
+117	GO:0003849	3-deoxy-7-phosphoheptulonate synthase activity	3	3	0.035556635	molecular_function
+336	GO:0004239	methionyl aminopeptidase activity	3	3	0.035556635	molecular_function
+803	GO:0005978	glycogen biosynthetic process	3	3	0.035556635	biological_process
+831	GO:0006120	"mitochondrial electron transport, NADH to ubiquinone"	3	3	0.035556635	biological_process
+938	GO:0006546	glycine catabolic process	3	3	0.035556635	biological_process
+1269	GO:0009098	leucine biosynthetic process	3	3	0.035556635	biological_process
+1294	GO:0009331	glycerol-3-phosphate dehydrogenase complex	3	3	0.035556635	cellular_component
+1530	GO:0016888	"endodeoxyribonuclease activity, producing 5'-phosphomonoesters"	3	3	0.035556635	molecular_function
+1812	GO:0030833	regulation of actin filament polymerization	3	3	0.035556635	biological_process
+1938	GO:0043738	F420H2 dehydrogenase activity	3	3	0.035556635	molecular_function
+1971	GO:0043826	sulfur oxygenase reductase activity	3	3	0.035556635	molecular_function
+1986	GO:0043883	malolactic enzyme activity	3	3	0.035556635	molecular_function
+2138	GO:0051341	regulation of oxidoreductase activity	3	3	0.035556635	biological_process
+826	GO:0006099	tricarboxylic acid cycle	9	6	0.039683435	biological_process
+856	GO:0006289	nucleotide-excision repair	9	6	0.039683435	biological_process
+1089	GO:0008235	metalloexopeptidase activity	9	6	0.039683435	molecular_function
+1767	GO:0020037	heme binding	48	22	0.041618424	molecular_function
+768	GO:0005777	peroxisome	7	5	0.042702613	cellular_component
+1344	GO:0015645	fatty-acid ligase activity	7	5	0.042702613	molecular_function
+447	GO:0004467	long-chain-fatty-acid-CoA ligase activity	5	4	0.043071612	molecular_function
+603	GO:0004722	protein serine/threonine phosphatase activity	5	4	0.043071612	molecular_function
+1086	GO:0008202	steroid metabolic process	5	4	0.043071612	biological_process
+1106	GO:0008287	protein serine/threonine phosphatase complex	5	4	0.043071612	cellular_component
+1245	GO:0008967	phosphoglycolate phosphatase activity	5	4	0.043071612	molecular_function
+1815	GO:0030976	thiamin pyrophosphate binding	5	4	0.043071612	molecular_function
+1829	GO:0031955	short-chain-fatty-acid-CoA ligase activity	5	4	0.043071612	molecular_function
+1830	GO:0031956	medium-chain-fatty-acid-CoA ligase activity	5	4	0.043071612	molecular_function
+1831	GO:0031957	very-long-chain-fatty-acid-CoA ligase activity	5	4	0.043071612	molecular_function
+2036	GO:0046912	"transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer"	5	4	0.043071612	molecular_function
+1323	GO:0015031	protein transport	46	21	0.047979494	biological_process
