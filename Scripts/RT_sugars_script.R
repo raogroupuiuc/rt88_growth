@@ -5,7 +5,7 @@ setwd("D:/Box Sync/02 - RNA seq work/RNA-seq-CABBI/2020_end/")
 
 options(stringsAsFactors = F)
 library(edgeR)
-#library(biomaRt)
+library(WGCNA)
 library(affycoretools)
 library(limma)
 library(gplots)
@@ -45,6 +45,11 @@ biplot(test_new, xlim = c(-100,100), ylim = c(-75,75),
        pointSize = 4, gridlines.major = FALSE, gridlines.minor = FALSE)
 dev.off()
 
+jpeg("results/PCA_2020_12_20.jpeg", width = 6, height = 6, units = "in", res = 300)
+biplot(test_new, xlim = c(-100,100), ylim = c(-75,75), 
+       lab = d.filt$samples$group, 
+       pointSize = 4, gridlines.major = FALSE, gridlines.minor = FALSE)
+dev.off() 
 # one-way anova #### 
 group <- factor(d$samples$group, levels=c("YP","Glc", "Xyl", "Ac", "So" ))
 design <- model.matrix(~group)
