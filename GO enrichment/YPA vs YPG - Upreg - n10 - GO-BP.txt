@@ -1,0 +1,10 @@
+goAcc	Pathway	N	DE	P.DE	gotermType
+257	GO:0008152	metabolic process	346	171	5.76936144296537e-11	biological_process
+49	GO:0006118	electron transport	149	85	8.4387341754075e-10	biological_process
+326	GO:0015986	ATP synthesis coupled proton transport	16	13	9.77185370319143e-05	biological_process
+142	GO:0006511	ubiquitin-dependent protein catabolic process	41	23	0.00180818258192933	biological_process
+334	GO:0016071	mRNA metabolic process	16	11	0.00355864394948635	biological_process
+42	GO:0006096	glycolysis	14	10	0.00358904045578425	biological_process
+414	GO:0045454	cell redox homeostasis	10	7	0.0181369797302906	biological_process
+145	GO:0006520	amino acid metabolic process	22	12	0.0293011059390616	biological_process
+314	GO:0015031	protein transport	46	21	0.0479794944293997	biological_process

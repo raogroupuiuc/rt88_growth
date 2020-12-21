@@ -1,0 +1,7 @@
+goAcc	Pathway	N	DE	P.DE	gotermType
+257	GO:0008152	metabolic process	346	168	6.55276230642616e-21	biological_process
+20	GO:0005975	carbohydrate metabolic process	78	38	9.1524018565525e-06	biological_process
+49	GO:0006118	electron transport	149	59	0.000115753177067892	biological_process
+245	GO:0007154	cell communication	14	10	0.000424505795326835	biological_process
+199	GO:0006808	regulation of nitrogen utilization	14	8	0.0120716718214689	biological_process
+370	GO:0019752	carboxylic acid metabolic process	10	6	0.0223381211192317	biological_process

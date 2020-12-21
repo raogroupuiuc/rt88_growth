@@ -1,0 +1,15 @@
+goAcc	Pathway	N	DE	P.DE	gotermType
+257	GO:0008152	metabolic process	346	196	9.62133530947017e-23	biological_process
+49	GO:0006118	electron transport	149	72	1.39499350273204e-05	biological_process
+245	GO:0007154	cell communication	14	11	0.000414399220248766	biological_process
+142	GO:0006511	ubiquitin-dependent protein catabolic process	41	23	0.00101382415710681	biological_process
+20	GO:0005975	carbohydrate metabolic process	78	38	0.0011876799649063	biological_process
+184	GO:0006725	aromatic compound metabolic process	24	15	0.00179526416511712	biological_process
+370	GO:0019752	carboxylic acid metabolic process	10	8	0.00233897703946978	biological_process
+250	GO:0007242	intracellular signaling cascade	17	11	0.00512941672842296	biological_process
+140	GO:0006508	proteolysis	94	42	0.00527765056300733	biological_process
+337	GO:0016192	vesicle-mediated transport	40	20	0.0117643023295683	biological_process
+127	GO:0006461	protein complex assembly	21	12	0.0137502533332319	biological_process
+414	GO:0045454	cell redox homeostasis	10	7	0.0145227861860835	biological_process
+271	GO:0008654	phospholipid biosynthetic process	15	9	0.0218630466315128	biological_process
+247	GO:0007165	signal transduction	73	31	0.0331617152736321	biological_process

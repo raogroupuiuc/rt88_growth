@@ -1,0 +1,5 @@
+goAcc	Pathway	N	DE	P.DE	gotermType
+101	GO:0006412	translation	144	86	6.16333560269842e-12	biological_process
+92	GO:0006364	rRNA processing	18	14	9.08944874524024e-05	biological_process
+66	GO:0006259	DNA metabolic process	11	8	0.00684876328628419	biological_process
+409	GO:0044267	cellular protein metabolic process	11	7	0.0315640127051802	biological_process

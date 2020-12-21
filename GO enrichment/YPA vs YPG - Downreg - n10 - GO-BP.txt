@@ -1,0 +1,8 @@
+goAcc	Pathway	N	DE	P.DE	gotermType
+91	GO:0006355	regulation of transcription, DNA-dependent	189	91	0.000234222777740127	biological_process
+66	GO:0006259	DNA metabolic process	11	9	0.00233922835995367	biological_process
+388	GO:0035023	regulation of Rho protein signal transduction	12	9	0.00639130586753839	biological_process
+215	GO:0006865	amino acid transport	18	11	0.0242529355680492	biological_process
+67	GO:0006260	DNA replication	29	16	0.0243565680111038	biological_process
+237	GO:0007018	microtubule-based movement	14	9	0.0273427334564831	biological_process
+269	GO:0008643	carbohydrate transport	37	19	0.0357349665501175	biological_process

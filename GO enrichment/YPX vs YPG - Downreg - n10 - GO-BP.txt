@@ -1,0 +1,10 @@
+goAcc	Pathway	N	DE	P.DE	gotermType
+409	GO:0044267	cellular protein metabolic process	11	9	3.22423375861159e-05	biological_process
+67	GO:0006260	DNA replication	29	15	0.00029157659416066	biological_process
+66	GO:0006259	DNA metabolic process	11	7	0.00288849674312744	biological_process
+200	GO:0006810	transport	144	45	0.00321654154364094	biological_process
+105	GO:0006418	tRNA aminoacylation for protein translation	27	12	0.0058989776668538	biological_process
+52	GO:0006139	nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	15	8	0.006360821515896	biological_process
+215	GO:0006865	amino acid transport	18	9	0.00659282710025807	biological_process
+100	GO:0006397	mRNA processing	11	6	0.0159271348008924	biological_process
+92	GO:0006364	rRNA processing	18	8	0.0235029876156533	biological_process
